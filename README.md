@@ -1,5 +1,5 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif)](https://Samawia2910.io)
-<h1 align="center">Hi 😊, I'm Samawia Ijaz</h1>
+<h1 align="center">AoA, I'm Samawia Ijaz<img align="center" alt="Coding" width="50" src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"></h1>
 <h3 align="center">A workaholic developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNDExcoz7M1wBac95fu2GBR1q6D0mmVnHvEJZUWqOHkbZ0PKm7kobIxNELUCTJoARpgw&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samawia2910&label=Profile%20views&color=0e75b6&style=flat" alt="samawia2910" /> </p>
