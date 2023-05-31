@@ -1,7 +1,7 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://Samawia2910.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNDExcoz7M1wBac95fu2GBR1q6D0mmVnHvEJZUWqOHkbZ0PKm7kobIxNELUCTJoARpgw&usqp=CAU)](https://Samawia2910.io)
 <h1 align="center">Hi 😊, I'm Samawia Ijaz</h1>
 <h3 align="center">A workaholic developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQFJdqXhOrpe7w/article-cover_image-shrink_600_2000/0/1605201055375?e=2147483647&v=beta&t=RKqHdCIXLf04EgUl_evXEUrI7_2GZPUhbEdEf91YK3E">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samawia2910&label=Profile%20views&color=0e75b6&style=flat" alt="samawia2910" /> </p>
 
 - 💬 Ask me about **Python, HTML/CSS, C#, MySQL**
