@@ -1,4 +1,4 @@
-[![MasterHead](https://md-tabassum-hossain-emon.netlify.app/project/machine_learning/featured.gif)](https://Samawia2910.io)
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif)](https://Samawia2910.io)
 <h1 align="center">Hi 😊, I'm Samawia Ijaz</h1>
 <h3 align="center">A workaholic developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNDExcoz7M1wBac95fu2GBR1q6D0mmVnHvEJZUWqOHkbZ0PKm7kobIxNELUCTJoARpgw&usqp=CAU">
